@@ -1,0 +1,12 @@
+com.example.first_demo.app-jetified-annotation-experimental-1.1.0-0 /home/gmo/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.first_demo.app-jetified-window-1.0.0-beta04-1 /home/gmo/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.first_demo.app-jetified-window-java-1.0.0-beta04-2 /home/gmo/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.first_demo.app-core-1.6.0-3 /home/gmo/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.example.first_demo.app-debug-4 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/android/app/src/debug/res
+com.example.first_demo.app-main-5 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/android/app/src/main/res
+com.example.first_demo.app-pngs-6 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/build/app/generated/res/pngs/debug
+com.example.first_demo.app-resValues-7 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/build/app/generated/res/resValues/debug
+com.example.first_demo.app-rs-8 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/build/app/generated/res/rs/debug
+com.example.first_demo.app-mergeDebugResources-9 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.first_demo.app-mergeDebugResources-10 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.first_demo.app-merged_res-11 /home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/Taxi-App-Flutter/build/app/intermediates/merged_res/debug

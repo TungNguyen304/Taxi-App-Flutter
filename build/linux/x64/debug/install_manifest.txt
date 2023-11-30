@@ -1,0 +1,12 @@
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/first_demo
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/gmo/MyWorkspace/INDIVIDUAL/FLUTTER/first_demo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
